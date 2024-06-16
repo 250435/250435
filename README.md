@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @250435
+- 👋 Hi, I’m MCT @250435
 - 👀 I’m interested in AZ-900, SC-900, MS-900, MS-500, MS-102, MD-102, AZ-104
 - 🌱 I’m currently learning AZ-140 and teaching at the AXians Academy
 - 💞️ I’m looking to collaborate on setting up teaching environments for students.
